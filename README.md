@@ -1,2 +1,2 @@
-# SQL-ASSISSTANT-
-This project converts natural, general-language questions into SQL queries and executes them on a connected database. It allows users to interact with databases using plain English, making data retrieval intuitive and user-friendly
+# SQL-ASSISTANT
+A web app that uses AI to convert natural language into SQL queries. Supports live database uploads, schema exploration, and in-browser execution using SQLite.js.
